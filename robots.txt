@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaebieko.aaronstevens.co.uk/sitemap.xml
